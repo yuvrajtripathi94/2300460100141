@@ -1,0 +1,20 @@
+{
+  "name": "vehicle-maintence-scheduler",
+  "version": "1.0.0",
+  "description": "Vehicle Maintenance Scheduler — AffordMed Backend Track",
+  "main": "scheduler.js",
+  "scripts": {
+    "start": "node scheduler.js"
+  },
+  "keywords": [
+    "knapsack",
+    "scheduler",
+    "affordmed"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
